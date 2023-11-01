@@ -1,0 +1,24 @@
+{
+  "name": "nord-light-prism-theme",
+  "version": "0.1.0",
+  "description": "An unofficial theme for the Prism syntax highlighting library based on the Nord Light VSCode theme.",
+  "author": "Darko Trifunovski <dtrifuno@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtrifuno/nord-light-prism-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dtrifuno/nord-light-prism-theme/issues"
+  },
+  "homepage": "https://github.com/dtrifuno/nord-light-prism-theme#readme",
+  "keywords": [
+    "nord-light-theme",
+    "prism",
+    "prismjs",
+    "syntax-highlighting"
+  ],
+  "files": [
+    "prism-nord-light.css"
+  ]
+}
